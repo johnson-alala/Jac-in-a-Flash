@@ -1,5 +1,5 @@
 """A Number Guessing Game"""
-import "guess_game5.impl.jac";
+
 import random;
 
 walker GuessGame {
